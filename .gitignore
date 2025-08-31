@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Python 
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.env/
+.venv/
+venv/
+ENV/
+
+# TensorFlow / Keras models / checkpoints
+*.h5
+*.ckpt
+*.ckpt.*
+
+# Project-specific
+data/
+results/
+models/
